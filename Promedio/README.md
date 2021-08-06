@@ -1,4 +1,3 @@
-![Tec de Monterrey](../../images/logotecmty.png)
 # Promedio de 4 materias
 Básicos-Promedio de 4 materias
 
@@ -28,5 +27,3 @@ El promedio es: 80.0
 ```
 
 **Nota:** No te preocupes por esta parte del código `if __name__ == '__main__':` por el momento. No la vamos a necesitar para este programa, pero es una buena práctica incluirla y quedará más claro para que sirve en los siguientes ejercicios.
-
-Una vez que termines tu actividad y la hayas probado con `pytest`, subela a tu repositorio en GitHub, con el proceso de commit + push.

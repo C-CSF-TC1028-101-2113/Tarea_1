@@ -1,4 +1,3 @@
-![Tec de Monterrey](../../images/logotecmty.png)
 # Calcula Tiempo
 Básicos-Calcula tiempo
 

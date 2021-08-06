@@ -1,4 +1,3 @@
-![Tec de Monterrey](../../images/logotecmty.png)
 # Caracol
 Básicos-Distancia recorrida por un caracol
 

@@ -1,4 +1,3 @@
-![Tec de Monterrey](../../images/logotecmty.png)
 # Área Triángulo
 Básicos-Área Triángulo
 

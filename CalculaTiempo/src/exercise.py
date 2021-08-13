@@ -6,8 +6,5 @@ def main():
     tiempo=actual+calculo
     print("Cumplirás 100 años en el año:",tiempo)
 
-
-
-
 if __name__ == '__main__':
     main()
